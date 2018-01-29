@@ -1,2 +1,4 @@
 /examples/__build__
+/dist/
+/node_modules/
 /coverage/
